@@ -30,6 +30,7 @@ img {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.8em;
+    background-image:url(goku.jpg);
 }
 /*-- Layout ----------------------------------------------------------*/
 #contenedor {
@@ -121,9 +122,6 @@ body {
 
 
     #cabecera h1 {
-        background: url(logo.jpg) no-repeat 0px 0px;
-        width: 100px;
-        height: 100px;
     }
 
         #cabecera h1 span {
